@@ -31,7 +31,7 @@ probability_model = tf.keras.Sequential([model, tf.keras.layers.Softmax()])
 predictions = probability_model.predict(test_images)
 
 # Imprimir array de posibilidades de matcheo para cada caracter.
-print("Predicciones para cada dígito:", predictions[0])
+print("Probabilidades para cada dígito:", predictions[0])
 
 # Obtener el caracter con mayores posibilidades de matchear
 print("Índice dentro del array del caracter con mayores probabilidades de matchear:", np.argmax(predictions[0]))
