@@ -1,6 +1,6 @@
-## Trabajo Práctico Final - Inteligencia Artificial (95.25) 
+## Trabajo Práctico - Inteligencia Artificial (95.25) 
 #### 1° Cuatrimestre 2020
-Código e informe correspondientes al TP final de Inteligencia Artificial sobre implementación de redes neuronales utilizando la biblioteca de redes neuronales de código abierto Keras.
+Ejemplos de implementación de redes neuronales utilizando la biblioteca de redes neuronales de código abierto Keras.
 
 
 #### Alumnos:
